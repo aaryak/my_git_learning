@@ -1,1 +1,2 @@
-# my_git_learning
+### my_git_learning
+Author - Aaryak Gautam
